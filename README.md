@@ -3,11 +3,8 @@
 Furniture App Complete UI in Flutter
 - Features
 # Auth
-- Login
- - ![Screenshot_20250406-173723_(1)](https://github.com/user-attachments/assets/14d771ff-f878-4319-9fdc-b1852c6883bd)
-
-- Signup
-  - ![Screenshot_20250406-173732_(1)](https://github.com/user-attachments/assets/22cd2ffd-6c60-4947-9009-852cbb0d474a)
+![Login Screen](https://github.com/user-attachments/assets/14d771ff-f878-4319-9fdc-b1852c6883bd =300x)
+![Signup Screen](https://github.com/user-attachments/assets/22cd2ffd-6c60-4947-9009-852cbb0d474a =300x)
 
 - Forgot Password
  -  ![Screenshot_20250406-173741_(1)](https://github.com/user-attachments/assets/24e28452-f069-44dc-8dc3-896cc80ebe4e)
