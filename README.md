@@ -9,7 +9,7 @@ Furniture App Complete UI in Flutter
 # Auth
 - Login
   
-  ![Screenshot_20250406-173723_(1)](https://github.com/user-attachments/assets/d4bad7e8-d3db-446d-9a99-13ab1fb8a1b6)
+  <img src="https://github.com/user-attachments/assets/d4bad7e8-d3db-446d-9a99-13ab1fb8a1b6" width="300"/>
 
 
 - Signup
