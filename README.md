@@ -2,6 +2,10 @@
 
 Furniture App Complete UI in Flutter
 - Features
+   - Different Pages UI
+   - User can save/remove product
+   - User can add/remove product to cart
+   - Product Price Calculated in Cart,Checkout
 # Auth
 - Login
   
