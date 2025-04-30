@@ -15,3 +15,26 @@ void toggleCartProduct(ProductModel product) {
     cartProduct.add(product);
   }
 }
+
+
+
+
+// RiverPod Implementation
+// import 'package:furniture_yt/cores/consts/const.dart';
+// import 'package:furniture_yt/provider/cart_product_provider.dart';
+// import 'package:furniture_yt/views/product/model/product_model.dart';
+
+// bool isCartAdded(WidgetRef ref, ProductModel product) {
+//   final cartProduct = ref.watch(cartProductProvider);
+//   return cartProduct.any((t) => t.id == product.id);
+// }
+
+// void toggleCartProduct(WidgetRef ref, ProductModel product) {
+//   final ctProduct = ref.read(cartProductProvider.notifier);
+//   final currentData = ctProduct.state;
+//   if (currentData.any((t) => t.id == product.id)) {
+//     ctProduct.state = currentData.where((i) => i.id != product.id).toList();
+//   } else {
+//     ctProduct.state = [...currentData, product];
+//   }
+// }

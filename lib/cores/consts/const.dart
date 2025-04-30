@@ -12,7 +12,9 @@ export 'package:furniture_yt/cores/widgets/build_text.dart';
 export 'package:furniture_yt/cores/routes/route_name.dart';
 export 'package:furniture_yt/cores/primary/primary_outlined_button.dart';
 
+export  'package:furniture_yt/provider/provider.dart';
 
+export 'package:flutter_riverpod/flutter_riverpod.dart';
 
 
 

@@ -2,6 +2,8 @@ import 'package:furniture_yt/cores/consts/const.dart';
 
 class CommonColor {
   static const Color cScaffoldBackgroundColor = Color(0xFFECE4DB);
+  static const Color cScaffoldBlackColor = Color.fromARGB(255, 73, 73, 73);
+
   static const Color cBlackColor = Colors.black;
   static const Color cGreenColor = Colors.green;
   static const Color cGreyColor = Colors.grey;
@@ -17,7 +19,7 @@ class CommonColor {
   static const Color cAppBarColor = Color.fromARGB(255, 250, 176, 201);
   static const Color cElevatedButtonColor = Color.fromARGB(255, 161, 213, 255);
   static const Color cContainerColor = Color.fromARGB(255, 194, 194, 194);
-    static const Color cBottomSheetColor = Color.fromARGB(255, 201, 201, 201);
-
-  
+  static const Color cBottomSheetColor = Color.fromARGB(255, 201, 201, 201);
+  static const Color cBlackCardColor = Color.fromARGB(255, 102, 101, 101);
+  static const Color cBlackContainerColor = Color.fromARGB(255, 87, 81, 81);
 }
